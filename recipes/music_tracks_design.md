@@ -1,10 +1,9 @@
 1. Describe the Problem
 Put or write the user story here. Add any clarifying notes you might have:
- - User would like a program that marks tasks as either complete or not.
+User would like a program that marks tasks as either complete or not.
 
 
 2. Design the Class Interface:
-
 
 class TodoList
   def initialize
@@ -48,9 +47,6 @@ class Todo
   end
 end
 initializer = TodoList and Todo
-
-- done: todo 
-- non-done: todo 
 
 3. Create Examples as Tests
 Make a list of examples of how the class will behave in different situations.
